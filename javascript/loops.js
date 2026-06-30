@@ -13,5 +13,6 @@ for (let i = 10; i <= 60; i++) {
   do {
      console.log(b);
      b++;
+     
   }
   while (b<10)
